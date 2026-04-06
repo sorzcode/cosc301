@@ -18,7 +18,8 @@
 ### 3. Export & Store Credentials
 - Generate a **JSON Key** for the service account.
 - Save the JSON file securely. It will be used for both local script execution and **Tableau** authentication.
-
+### 4. Import ipynb file in colab/ notebook environment
+- import main.ipynb in your choice of notebook environment
 ### 4. Set Environment Variable
 ```bash
 export GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/service-account-key.json"
