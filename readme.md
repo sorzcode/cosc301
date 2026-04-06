@@ -23,3 +23,6 @@
 ### 4. Set Environment Variable
 ```bash
 export GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/service-account-key.json"
+```
+- Also setup Google Colab Secret 
+'GCP_PROJECT_ID' -> Your_GCP_Project_ID
